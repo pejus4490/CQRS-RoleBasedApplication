@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RoleBased.Model/1.0.0": {
+        "dependencies": {
+          "RoleBased.Shared": "1.0.0"
+        },
+        "runtime": {
+          "RoleBased.Model.dll": {}
+        }
+      },
+      "RoleBased.Shared/1.0.0": {
+        "runtime": {
+          "RoleBased.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoleBased.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RoleBased.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

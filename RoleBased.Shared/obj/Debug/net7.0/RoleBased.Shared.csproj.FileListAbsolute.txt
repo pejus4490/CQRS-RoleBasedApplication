@@ -1,0 +1,11 @@
+G:\work\Practice\RoleBased\RoleBased.Shared\bin\Debug\net7.0\RoleBased.Shared.deps.json
+G:\work\Practice\RoleBased\RoleBased.Shared\bin\Debug\net7.0\RoleBased.Shared.dll
+G:\work\Practice\RoleBased\RoleBased.Shared\bin\Debug\net7.0\RoleBased.Shared.pdb
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.AssemblyInfoInputs.cache
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.AssemblyInfo.cs
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.csproj.CoreCompileInputs.cache
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.dll
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\refint\RoleBased.Shared.dll
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\RoleBased.Shared.pdb
+G:\work\Practice\RoleBased\RoleBased.Shared\obj\Debug\net7.0\ref\RoleBased.Shared.dll

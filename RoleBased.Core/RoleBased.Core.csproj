@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RoleBased.Repository\RoleBased.Repository.csproj" />
+    <ProjectReference Include="..\RoleBased.Service.Model\RoleBased.Service.Model.csproj" />
+    <ProjectReference Include="..\RoleBased.Shared\RoleBased.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
