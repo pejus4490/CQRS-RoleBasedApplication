@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GyAdJcj4whuvl6uIu6C9HvBdNP1AdbjFDy8HlZDjlJRt1jxl+K8uPB3+WZx72fEGoer7Z0nyqhPskv64MRV7Ew==",
+  "dgSpecHash": "tJtSSkQZ06T7zCJqVRRaC9itpa4S5AotaidOSSW6CLkSSKGmsNfxueKgdpBRHpZYGeXLI8kDWci9qkUbHJIW/Q==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prince\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\prince\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/s82WiUkcRWekO7wVv0sztXibEL1l484ADeg2YJ++mgnipWZWmWnHX30+FFymiFs1t640LH1g9R6RgMTqQb77A==",
+  "dgSpecHash": "fz5Q/t0Y9YmVm8mcWszZzDjMCB9hOdqTtHwM+6DLGRZ7RjvMnGg36bECCXfJ4eEuaA4T91lo+l5Ocw6ZJlf3QA==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prince\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\prince\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

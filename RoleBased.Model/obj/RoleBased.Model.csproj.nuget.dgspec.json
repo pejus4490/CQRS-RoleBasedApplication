@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj": {}
+    "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj": {}
   },
   "projects": {
-    "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj": {
+    "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
+        "projectUniqueName": "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
         "projectName": "RoleBased.Model",
-        "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
+        "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
         "packagesPath": "C:\\Users\\prince\\.nuget\\packages\\",
-        "outputPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\obj\\",
+        "outputPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
-                "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj"
+              "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
+                "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
+    "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj",
+        "projectUniqueName": "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj",
         "projectName": "RoleBased.Shared",
-        "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj",
+        "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj",
         "packagesPath": "C:\\Users\\prince\\.nuget\\packages\\",
-        "outputPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\obj\\",
+        "outputPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prince\\AppData\\Roaming\\NuGet\\NuGet.Config",

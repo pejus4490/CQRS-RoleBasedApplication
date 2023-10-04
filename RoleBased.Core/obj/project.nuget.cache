@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fw4EAs7QsHsI/EG8Xyajo8gVP4DnN9Z2TyV75V26Cd4d514Mnh5NeeXeniGc6qZl3f22yHow4KriqRvR0B3sxA==",
+  "dgSpecHash": "tyWkoyobKozMBzqKPaY810PyFu5I2BjdHpEoE2Io9tfcw1d+S3X0fxpin2IeOrPBtfqFGgCohR2E2Rp6kjPXog==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prince\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\prince\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

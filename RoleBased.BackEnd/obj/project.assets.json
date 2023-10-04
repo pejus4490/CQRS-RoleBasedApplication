@@ -3679,11 +3679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\work\\Practice\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
+      "projectUniqueName": "G:\\DemoMVC\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
       "projectName": "RoleBased.BackEnd",
-      "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
+      "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.BackEnd\\RoleBased.BackEnd.csproj",
       "packagesPath": "C:\\Users\\prince\\.nuget\\packages\\",
-      "outputPath": "G:\\work\\Practice\\RoleBased\\RoleBased.BackEnd\\obj\\",
+      "outputPath": "G:\\DemoMVC\\RoleBased\\RoleBased.BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3700,8 +3700,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\work\\Practice\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj": {
-              "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj"
+            "G:\\DemoMVC\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj": {
+              "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.IoC.Configuration\\RoleBased.IoC.Configuration.csproj"
             }
           }
         }

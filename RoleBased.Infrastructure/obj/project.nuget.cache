@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f6k8qO4lyhdR/e07JThMURIDveMG8CvEq9SObvaWlRxeSkTxrrW4M57hT1LDbVvcqwpABf3o+j0yn7hwCGUYxg==",
+  "dgSpecHash": "P8sWoFDGUvK3w5lXed8/WCZx+IbZD7Kdi5fv3NH0sU45lCuHbQIJ5ZhDJfAc/PdVdoApu4KCM247EqpGRhw/SQ==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.Infrastructure\\RoleBased.Infrastructure.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.Infrastructure\\RoleBased.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prince\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\prince\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

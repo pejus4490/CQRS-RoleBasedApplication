@@ -2850,11 +2850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\work\\Practice\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
+      "projectUniqueName": "G:\\DemoMVC\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
       "projectName": "RoleBased.Core",
-      "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
+      "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Core\\RoleBased.Core.csproj",
       "packagesPath": "C:\\Users\\prince\\.nuget\\packages\\",
-      "outputPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Core\\obj\\",
+      "outputPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2871,14 +2871,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\work\\Practice\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj": {
-              "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj"
+            "G:\\DemoMVC\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj": {
+              "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj"
             },
-            "G:\\work\\Practice\\RoleBased\\RoleBased.Service.Model\\RoleBased.Service.Model.csproj": {
-              "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Service.Model\\RoleBased.Service.Model.csproj"
+            "G:\\DemoMVC\\RoleBased\\RoleBased.Service.Model\\RoleBased.Service.Model.csproj": {
+              "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Service.Model\\RoleBased.Service.Model.csproj"
             },
-            "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
-              "projectPath": "G:\\work\\Practice\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj"
+            "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj": {
+              "projectPath": "G:\\DemoMVC\\RoleBased\\RoleBased.Shared\\RoleBased.Shared.csproj"
             }
           }
         }

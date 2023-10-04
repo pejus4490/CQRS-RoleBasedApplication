@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hCmvBePEyeffBsXJRaQe09b/GZdDUOPNMLwvjCsXiG/kXK0B+plSv2Cu+1bpxmApEoO835LIC04Wls8lvQcOtg==",
+  "dgSpecHash": "FpPJtQE34Z4CzM04sEUgKc5ACZgrOK+MlhDWe9W+BiwwWAkyHLyMAy1mRr9HKQP/hZfK/JrjEGXsnOdDNQaStg==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.Repository\\RoleBased.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prince\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\prince\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

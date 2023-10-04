@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ELWEi4Ds1kFmDaKS+D67jrxiD5VuAtHLl2ZFPZLkwxfB631Bq3YYi/GLmPAQblVXxPd5qp+Xh2qa1OBM82lQgw==",
+  "dgSpecHash": "tqfwO4qn7fscdDWLLePW71oZfrZtI5cLdAJ/ERUf5K4jfQfYiualTC6LZ5nZg7kPsl2Z6DB94lyRhrxj9mtHwQ==",
   "success": true,
-  "projectFilePath": "G:\\work\\Practice\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
+  "projectFilePath": "G:\\DemoMVC\\RoleBased\\RoleBased.Model\\RoleBased.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
